@@ -21,7 +21,7 @@ public class Sesion34IbarraEd_pilas {
         
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es: \n"+pilaIbarra);
         
-        
+        JOptionPane.showMessageDialog(null, "Autor: Michelle Ibarra \n"+pilaIbarra);
     }
     
 }
